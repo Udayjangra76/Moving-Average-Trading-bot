@@ -8,7 +8,9 @@ command : npm install
 command: npm run start
 
 4.see output
-localhost:3000 for current balance and profit
+localhost:3000 for current balance and profit and
 localhost:3000/transaction for transaction occurred till now
 
 5.Refresh routes each time when you want to look for current output
+
+Demo Result - Check MyStimulationFolder 
